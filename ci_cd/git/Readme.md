@@ -22,7 +22,11 @@
 21. git log --graph --oneline
 22. git push  origin main (or)  git push
 23. git pull origin main (or) git pull
+
 # Please check this command
+
 25. git pull --rebase
 26. git tag v0.0.1
 27. git push origin v0.0.1
+26. git push origin --all
+27. git push origin --tags
