@@ -25,3 +25,4 @@
 # Please check this command
 25. git pull --rebase
 26. git tag v0.0.1
+27. git push origin v0.0.1
