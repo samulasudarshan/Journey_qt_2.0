@@ -22,4 +22,5 @@
 21. git log --graph --oneline
 22. git push  origin main (or)  git push
 23. git pull origin main (or) git pull
-24. git pull --rebase
+# Please check this command
+25. git pull --rebase
