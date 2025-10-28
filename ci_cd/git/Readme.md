@@ -24,3 +24,4 @@
 23. git pull origin main (or) git pull
 # Please check this command
 25. git pull --rebase
+26. git tag v0.0.1
