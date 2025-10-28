@@ -1,0 +1,16 @@
+# Learning git commands
+1. git init .
+2. git status
+3. git add
+4. git config --global user.name "Your Name"
+5. git config --global user.email "youremail@yourdomain.com"
+6. git commit -m "xxxxxxx"
+7. git log
+8. git add -u
+9. git log --one-line
+10. git checkout commit_id
+11. git restore --staged /xyz/abc/app.yml
+12. git branch new-branch
+13. git checkout -b new-branch
+14.  git cat-file  -t commit-id
+15.  git cat-file  -p commit-id
