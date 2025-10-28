@@ -21,3 +21,4 @@
 20. git log --oneline
 21. git log --graph --oneline
 22. git push  origin main (or)  git push
+23. git pull origin main (or) git pull
